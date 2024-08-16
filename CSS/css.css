@@ -1,0 +1,39 @@
+.borde1{
+    color: rgb(0, 0, 0);
+}
+nav{
+    padding: 0,6%;
+}
+
+.plataformas{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.descripcion{
+    font-family:fantasy 'Courier New', Courier, monospace;
+}
+
+.titulopc{
+    color: whitesmoke;
+    
+}
+
+img{
+    padding: 2px;
+}
+
+.plataforma-mas-usada{
+    color:rgb(0, 238, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: blueviolet
+}
+
+.footeer {
+    color: cornflowerblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 10%;
+}
